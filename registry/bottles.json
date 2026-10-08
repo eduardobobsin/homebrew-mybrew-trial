@@ -1,1 +1,14 @@
-{}
+{
+  "dos2unix": {
+    "bottles": {
+      "sequoia": {
+        "built_at": "2026-10-08T00:56:20+00:00",
+        "filename": "dos2unix-7.5.7.sequoia.bottle.tar.gz",
+        "root_url": "https://github.com/eduardobobsin/homebrew-mybrew-trial/releases/download/bottles",
+        "sha256": "725ddd311cb74b65ee561005360de2d389a98fab07e89bb3469252f1ffc377ed"
+      }
+    },
+    "mybrew_dependencies": [],
+    "version": "7.5.7"
+  }
+}
